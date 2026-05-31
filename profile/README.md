@@ -1,6 +1,8 @@
 # Forgepoint Labs
 
-Building software, AI tools, apps, and future digital products.
+Building software, AI tools, apps, and digital products.
+
+---
 
 ## Focus Areas
 
@@ -8,17 +10,21 @@ Building software, AI tools, apps, and future digital products.
 - Mobile applications
 - AI tools & automation
 - MVPs & rapid prototyping
-- Startup products & experimentation
+- Product experimentation
 
-## Current Projects
+---
+
+## Projects
 
 ### StudioBoard
-Internal project management dashboard and development workspace.
+Internal dashboard for project management and development workflow.
 
 ### MVP Lab
-Experimental MVPs, software experiments, and product testing.
+Experimental software prototypes and startup concepts.
 
 ### Portfolio
-Project showcase and software portfolio for Forgepoint Labs.
+Public showcase of software projects and development work.
 
-Built by Jackson Whitkanack.
+---
+
+Founded by Jackson Whitkanack.
