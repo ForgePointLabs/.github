@@ -1,30 +1,35 @@
-# Forgepoint Labs
+# Veritus
 
-Building software, AI tools, apps, and digital products.
+**Technology, built with clarity.**
 
----
+Veritus is a founder-led technology company building premium websites, custom software, workflow automation, and practical AI systems for growing businesses.
 
-## Focus Areas
-
-- Full-stack software development
-- Mobile applications
-- AI tools & automation
-- MVPs & rapid prototyping
-- Product experimentation
+[![Veritus](https://img.shields.io/badge/VERITUS-Visit%20the%20website-CDA967?style=for-the-badge&labelColor=11120F)](https://veritushq.com)
 
 ---
 
-## Projects
+## Divisions
 
-### StudioBoard
-Internal dashboard for project management and development workflow.
+### Veritus Studios
 
-### MVP Lab
-Experimental software prototypes and startup concepts.
+The active client-services division. Studios designs and develops focused websites, custom software, workflow automation, and practical AI systems around real business needs.
 
-### Portfolio
-Public showcase of software projects and development work.
+### Veritus Labs
+
+The research and product-development division. Labs explores recurring operational problems through evidence, experiments, prototypes, and focused software products.
 
 ---
 
-Founded by Jackson Whitkanack.
+## Principles
+
+- Truth before salesmanship
+- Clarity before complexity
+- Craftsmanship without agency games
+- Technology built around real problems
+- Direct, founder-led accountability
+
+---
+
+Founded by [Jackson Whitkanack](https://github.com/jacksonwdev).
+
+Learn more at **[veritushq.com](https://veritushq.com)**.
